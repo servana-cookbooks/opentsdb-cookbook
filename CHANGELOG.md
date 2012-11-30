@@ -2,6 +2,12 @@
 
 This file is used to list changes made in each version of opentsdb.
 
+## 0.1.1:
+
+* Ported to Ubuntu
+* Added Berkshelf support
+* Removed extra cookbooks
+
 ## 0.1.0:
 
 * Initial release of opentsdb
